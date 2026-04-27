@@ -1,0 +1,93 @@
+---
+title: "Creative_datavisual"
+format: html
+editor: visual
+---
+
+# Creative Data Visualization
+
+## Project Description
+
+For my creative data visualization I have decided to focus on my interest in oyster immune response to pathogens. In the state of Texas, we are seeing a rise in oyster farm leases as well as a rise in pathogen concentration and frequency in coastal waters. There is a growing concern in both industry and public health alike that oysters, who filter feed to obtain nutrients, will have a higher rate of pathogen uptake eventually leading to an increase in human cases due to consumption. Perkinsus marinus is one of the most dangerous pathogens that the Eastern Oyster, Crassostrea virginica, can be exposed to, causing extremely high rates of mortality. The dataset I chose comes from a publication on the transcriptomic response of the Eastern Oyster, particularly the identifitcation of novel immune strategies that assist in survival (Wang *et al*., 2010).
+
+For the visualization component of my project, I plan to use a whittled sculpture of the Eastern Oyster's anatomy to create a heat map connecting genes to different organs, highlighting the internal changes across tissue types to pathogen exposure.
+
+## Heatmap Coding
+
+```{r}
+#Preliminaries
+
+#Loading package into library
+install.packages("pheatmap")
+library(tidyverse)
+library(pheatmap)
+library(dplyr)
+
+#Loading in my dataset
+f <- "https://raw.githubusercontent.com/carly-dempsey04/creative-data-visualization/refs/heads/main/datavisualization_data.csv"
+d <- read_csv(f, col_names = TRUE)
+
+
+#Setting up my significance thresholds (cutoffs commonly used in transcriptomic analysis)
+p_cutoff <- 0.05
+log2fc_cutoff <- 1    
+
+
+#If fold change values are > 2, convert for log2 fold change
+d1 <- d %>%
+  if ((median(`fold change`)) > 2) {
+  d1$log2fc <- log2(`fold change`)
+} else {
+  d1$log2fc <- `fold change`
+}
+
+#Filtering for statistically significant differential gene expression
+sig_expr <- d %>%
+  filter(`P value` <= p_cutoff,
+         abs(`fold change`) >= log2fc_cutoff)
+
+#Label regulation direction
+sig_expr <- sig_expr %>%
+  mutate(regulation = ifelse(`fold change` > 0, "Upregulated", "Downregulated"))
+
+#Create matrix for heatmap
+heatmap_mat <- sig_expr %>%
+  select(EST_ID, `baseline mean`, `experiment mean`) %>%
+  column_to_rownames("EST_ID") %>%
+  as.matrix()
+
+#Log-transform expression for visualization
+heatmap_mat <- log2(heatmap_mat + 1)
+
+#Annotation for genes
+annotation_row <- sig_expr %>%
+  select(gene_id, regulation) %>%
+  distinct() %>%
+  column_to_rownames("gene_id")
+
+ann_colors <- list( #setting colors for annotations
+  regulation = c(
+    Upregulated = "#B2182B",
+    Downregulated = "#2166AC"
+  )
+)
+
+#The heat map colors
+heat_colors <- colorRampPalette(c("navy", "white", "firebrick3"))(100)
+
+#Plot heatmap
+pheatmap(
+  heatmap_mat,
+  color = heat_colors,
+  scale = "row",
+  annotation_row = annotation_row,
+  annotation_colors = ann_colors,
+  cluster_rows = TRUE,
+  cluster_cols = TRUE,
+  show_rownames = FALSE,
+  fontsize_col = 12,
+  main = "Differential Gene Expression in P.merinsus-Challenged Oysters"
+)
+```
+
+## Creative Visualization
