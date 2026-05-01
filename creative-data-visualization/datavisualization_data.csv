@@ -1,0 +1,227 @@
+EST_ID,baseline mea,experiment mean,fold change,P value,Gene Identification,E-Value,GOs
+DV736963,143,871.6,6.1,0.046,,,
+CX739545,2167.9,12798.8,5.91,0.001,,,
+EH649022,1723.5,8577.4,4.98,0.028,,,
+EH648615,1202,5666.8,4.71,0.03,,,
+EH648035,606.7,2847.4,4.69,0.003,,,
+CV088281,418.6,1881.5,4.5,0.037,,,
+EH645088,973.6,4213.5,4.33,0.033,Hypoxanthine phosphoribosyltransferase 1,7.70E-19,P:purine ribonucleoside salvage; P:purine nucleotide biosynthetic process; P:positive regulation of dopamine metabolic process; F:hypoxanthine phosphoribosyltransferase activity; F:magnesium ion binding; P:protein homotetramerization; F:protein homodimeri
+EH647641,382,1610.5,4.22,0.009,,,
+CV132802,110.3,453.6,4.12,0.04,,,
+AJ565461,226.9,925.5,4.09,0.048,,,
+CD647671,135.6,543.8,4.02,0.01,,,
+EH649315,104.7,416.7,3.98,0.04,Mandelate racemase muconate lactonizing protein,4.60E-66,P:metabolic process; F:catalytic activity
+EH645050,1350.7,5355.6,3.97,0.002,,,
+EH647778,2135.7,8259.9,3.87,0.017,EF-hand domain member d2,1.00E-36,F:calcium ion binding
+EH645323,130.1,487.8,3.75,0.037,Transmembrane agrin,1.40E-04,F:serine-type endopeptidase inhibitor activity; F:endopeptidase inhibitor activity
+CV087859,187.8,696.6,3.71,0.021,,,
+BG624500,710.7,2633.6,3.71,0,,,
+BG624265,435.3,1597.1,3.68,0.037,,,
+DV736418,161.3,586.3,3.64,0.018,,,
+EH646382,438.2,1594,3.63,0.022,,,
+CV132972,440.1,1589.6,3.61,0.011,,,
+EH646182,2195.9,7629.6,3.48,0.001,,,
+CV089252,1407.6,4886,3.47,0.001,hypothetical protein BRAFLDRAFT_283990 [Branchiostoma floridae],5.00E-07,
+CV088049,2183.2,7453,3.41,0.002,,,
+CV132114,583.7,1983.4,3.4,0.007,,,
+CD646811,259.4,874.3,3.38,0.002,,,
+CV088083,2611.3,8816.4,3.38,0.018,,,
+EH648453,1510.5,5093.2,3.37,0.027,CG31477 isoform a,8.70E-07,"P:response to oxidative stress; F:hydrogen ion transmembrane transporter activity; C:mitochondrial proton-transporting ATP synthase complex; F:ATPase activity, coupled to transmembrane movement of ions; P:proton transport; P:determination of adult life sp"
+EH647435,240.3,804,3.35,0.045,,,
+CV088894,4290.9,14286.4,3.33,0.014,,,
+EH645482,751.2,2446.8,3.26,0.041,Calcium binding EF-hand protein,2.10E-34,F:calcium ion binding; P:biological_process; C:cellular_component
+EH648373,1149.2,3693,3.22,0.008,,,
+CV088648,4074.8,13108.9,3.22,0.011,,,
+CV089384,339.1,1078.2,3.18,0.003,Hepatitis b virus x interacting protein,1.30E-15,P:viral genome replication; F:protein binding; P:anti-apoptosis; P:negative regulation of caspase activity; C:cytosol; P:response to virus
+BG624183,647.9,2057.4,3.18,0.023,,,
+BG624427,477.3,1505.6,3.16,0.042,,,
+EH646269,195.7,612,3.13,0.008,Peroxidasin homolog,4.80E-19,F:metal ion binding; F:cation binding; P:response to oxidative stress; F:oxidoreductase activity; F:protein binding
+CV132227,1220.2,3802.8,3.12,0.047,Myosin essentital light chain,5.30E-77,C:myosin complex; F:calcium ion binding; F:motor activity
+BG624352,1650.4,5140.9,3.12,0.008,unnamed protein product [Tetraodon nigroviridis],6.90E-04,
+CV088092,1260.4,3927.8,3.12,0.007,,,
+CV089451,1087.4,3385,3.11,0.033,,,
+EH647751,606.7,1873.7,3.09,0.023,Armet-like protein precursor,4.20E-08,F:calcium ion binding
+EH643897,132.7,409.1,3.08,0.01,,,
+CV132052,1133.1,3465,3.06,0.03,cupin 2 conserved barrel domain protein,8.90E-28,
+EH646043,2011.4,6113.2,3.04,0.018,,,
+CD526709,1060.2,3215.1,3.03,0.027,,,
+CD650386,4239.6,12759.6,3.01,0,,,
+CV089185,1172.8,3506.1,2.99,0.007,Stress-associated endoplasmic reticulum protein 1,4.50E-19,P:intracellular protein transmembrane transport; C:endoplasmic reticulum membrane; C:integral to membrane
+EH649389,1665.5,4934.8,2.96,0.02,,,
+EH648956,1775.5,5229.5,2.95,0.001,NADH dehydrogenase Fe-S protein 6,3.30E-14,C:mitochondrial inner membrane
+CF369203,5073.5,14929.9,2.94,0.002,,,
+EH644673,127.8,374.1,2.93,0.04,Ceroid- neuronal isoform CRA_A,4.40E-16,P:cellular protein catabolic process; P:neurofilament cytoskeleton organization; P:musculoskeletal movement; P:age-dependent response to oxidative stress; P:social behavior; P:photoreceptor cell maintenance; P:cholesterol metabolic process; P:associative
+CV088515,714,2082.6,2.92,0.009,Mitochondrial import inner membrane translocase subunit Tim8-like protein,4.40E-10,C:mitochondrion; P:nervous system development; F:protein binding; P:protein transport
+BG624745,1135.9,3296.9,2.91,0.032,,,
+EH645595,228.3,657.6,2.88,0.006,,,
+EH646835,327.7,939.4,2.87,0.008,Hepatitis b virus x interacting protein,2.40E-11,F:protein binding; P:anti-apoptosis; P:negative regulation of caspase activity; C:cytosol
+CV132582,1300.4,3669.7,2.82,0.009,,,
+CV132703,5766.2,16228.1,2.82,0.022,,,
+EH647073,3324.1,9179.3,2.77,0.026,,,
+EH647819,335.2,912.2,2.73,0.004,Ryanodine receptor homologue,5.50E-54,F:calcium ion binding; C:integral to membrane; P:cellular calcium ion homeostasis; P:calcium ion transport; C:endoplasmic reticulum membrane; F:ryanodine-sensitive calcium-release channel activity; P:muscle contraction
+CD649733,130.2,354.7,2.73,0.005,,,
+EH645681,1608.6,4380.3,2.72,0,,,
+CD647160,855.4,2322.2,2.71,0.003,LAS1-like (S cerevisiae) isoform CRA_A,7.60E-18,
+EH646446,1579,4268.1,2.71,0.007,,,
+EH645940,1522.8,4105.4,2.7,0.032,,,
+EH646109,4190.8,11307.1,2.7,0.001,NADH dehydrogenase 1 alpha 13kda,6.50E-10,"P:positive regulation of growth rate; P:electron transport chain; F:oxidoreductase activity, acting on NADH or NADPH; C:mitochondrial respiratory chain; P:embryonic development ending in birth or egg hatching; P:nematode larval development"
+CX739354,354.3,953.5,2.69,0.029,,,
+CD649628,2408.4,6455.1,2.68,0.001,,,
+CV089215,1089,2916.1,2.68,0.001,Cysteine-rich protein 1,4.30E-34,C:cytoplasm; P:zinc ion transport; F:zinc ion binding; P:cell proliferation
+CK240393,6778.9,18136.6,2.68,0.001,,,
+CV132230,619.9,1652.8,2.67,0.005,Ribonuclease H2 subunit c,8.80E-20,
+EH648245,664.2,1771.1,2.67,0.001,,,
+EH644620,246.5,644.7,2.63,0,,,
+BG624734,2507.9,6575.7,2.62,0.001,,,
+CD648121,1063.5,2777.7,2.61,0.009,,,
+EH644521,3762.2,9702.6,2.58,0,Coiled-coil domain-containing protein 43,9.70E-06,F:molecular_function; P:biological_process
+CD646806,4388.3,11241.3,2.56,0.002,,,
+CV088555,1285,3264.1,2.54,0.023,putative universal stress ,1.20E-19,P:response to stress
+EH646377,1242.5,3153.1,2.54,0,,,
+CD647309,120.5,302.4,2.53,0.027,,,
+CD647578,2167,5457.9,2.52,0.003,,,
+EH644000,2923.4,7348.7,2.52,0.007,,,
+CD647578,2484.3,6227.5,2.51,0,,,
+CV132775,3083.8,7652.2,2.49,0.021,Riboflavin kinase,2.30E-15,C:cytoplasm; F:metal ion binding; F:riboflavin kinase activity; P:riboflavin biosynthetic process; F:nucleotide binding
+EH645002,3449.4,8543.2,2.48,0.003,,,
+EH645678,713.5,1760.1,2.47,0.007,,,
+CD649103,686.5,1686.7,2.46,0.001,Zinc finger protein,4.30E-41,F:protein binding; F:metal ion binding
+CV133167,1865.3,4573.7,2.45,0.016,,,
+CV132485,1884.8,4609.6,2.45,0.003,,,
+EH645381,2279.6,5550.6,2.44,0,,,
+BG624756,5600.5,13626,2.43,0.004,Cytochrome C oxidase subunit Va,1.90E-08,F:cytochrome-c oxidase activity; P:electron transport
+CV089314,5312.5,12892,2.43,0.002,Ribosomal protein l26,4.20E-54,P:ribosome biogenesis; F:structural constituent of ribosome; F:RNA binding; F:protein binding; C:cytosolic large ribosomal subunit; P:translation
+EH647477,931.2,2261.5,2.43,0.005,,,
+CV089115,614,1482.5,2.41,0.004,hypothetical protein BRAFLDRAFT_196019 [Branchiostoma floridae],6.40E-07,
+EH644697,1324.7,3194.2,2.41,0.006,hypothetical protein BRAFLDRAFT_130645 [Branchiostoma floridae],3.00E-18,
+BG624721,901.6,2165.1,2.4,0.001,,,
+EH645262,1471.9,3531.1,2.4,0.001,LPS-induced tnf-alpha factor,5.70E-28,F:molecular_function; C:integral to membrane
+CD649249,4256.3,10208,2.4,0,Small nuclear ribonucleoprotein polypeptides B and B1,1.80E-42,"C:cytoplasm; F:identical protein binding; F:nucleic acid binding; C:small nucleolar ribonucleoprotein complex; C:spliceosome; C:small nuclear ribonucleoprotein complex; P:nuclear mRNA splicing, via spliceosome"
+CV088086,3728.1,8882.7,2.39,0.003,Nuclear migration protein nudC,2.00E-11,C:cytoskeleton; P:cell proliferation; F:protein binding; P:multicellular organismal development; P:cell cycle
+EH647406,2863.2,6801.6,2.38,0.009,Coiled-coil domain-containing,1.00E-14,
+EH648559,234.5,557.6,2.38,0.016,,,
+EH644048,397.6,933.9,2.35,0.001,,,
+EH648350,226.4,526.3,2.33,0.005,PREDICTED: similar to polymerase (RNA) I polypeptide D,7.00E-08,
+EH646069,3822.9,8868.4,2.32,0.001,,,
+EH648802,3621.9,8378,2.31,0.001,,,
+EH644930,959.3,2210.1,2.3,0.007,,,
+EH644464,2425.3,5569.9,2.3,0.003,Peroxiredoxin 6,1.20E-70,F:phospholipase A2 activity; P:hydrogen peroxide catabolic process; C:lysosome; P:phospholipid catabolic process; F:peroxiredoxin activity; F:glutathione peroxidase activity; C:cytosol
+CF369194,9904.8,21978.9,2.22,0.001,,,
+CD646716,119.1,262.6,2.2,0.002,Similar to defense protein,7.40E-06,F:oxidoreductase activity; C:integral to membrane; C:membrane; C:membrane attack complex; P:histidine catabolic process; P:transport
+CD526759,8818.3,3989.6,-2.21,0,,,
+BG624729,14073.7,6160,-2.28,0,Annexin a4,6.60E-16,C:insoluble fraction; C:cytosol; P:cellular water homeostasis; P:regulation of cell shape; F:calcium ion binding; C:soluble fraction; P:response to salt stress; F:calcium-dependent phospholipid binding; P:cellular calcium ion homeostasis; C:vesicle; F:pro
+EH647986,759.7,328.2,-2.32,0.004,PPAR-alpha interacting complex protein 285,7.50E-04,
+CD650095,3869.8,1667,-2.32,0.004,,,
+CD649887,4975.5,2119.8,-2.35,0.001,,,
+EH647805,19372.1,8197.3,-2.36,0,PREDICTED: hypothetical protein [Strongylocentrotus purpuratus],2.50E-16,
+EH645168,29570.5,12479.5,-2.37,0.002,Chromosome 2 open reading frame 24,1.40E-46,F:molecular_function; C:integral to membrane; C:membrane; P:biological_process
+CX739582,6188.6,2568.2,-2.41,0.003,,,
+CV089609,9465.8,3900,-2.43,0.004,hypothetical protein BRAFLDRAFT_217178 [Branchiostoma floridae],4.60E-07,
+EH648533,5770.8,2371.1,-2.44,0.009,,,
+CB617548,4058.4,1659.4,-2.44,0.002,,,
+CD649816,12397,5057.1,-2.45,0.007,,,
+CD648628,2177.8,884.3,-2.46,0.023,Transcription factor 2,8.10E-33,P:transcription; F:transcription factor activity; P:hypothalamus development; C:nucleus; C:intracellular organelle part
+CU994419,6423.1,2610.5,-2.46,0.009,chromobox homolog 2 (pc class drosophila),2.30E-06,C:PcG protein complex; F:protein binding; P:establishment or maintenance of chromatin architecture; P:negative regulation of transcription from RNA polymerase II promoter
+EH644172,1740.7,701.7,-2.48,0.003,,,
+CD648404,17501.5,7017.1,-2.5,0.001,Adenylate cyclase-associated protein 1,4.20E-64,P:mesodermal cell migration; P:activation of adenylate cyclase activity; F:actin monomer binding; P:establishment or maintenance of cell polarity; P:somitogenesis
+EH647315,1138.5,454,-2.51,0.002,"ADAM metallopeptidase with thrombospondin type 1 motif, 18",4.50E-24,P:integrin-mediated signaling pathway; F:metalloendopeptidase activity; F:zinc ion binding; C:proteinaceous extracellular matrix; F:metallopeptidase activity; C:extracellular matrix; C:extracellular region; F:peptidase activity; P:proteolysis; F:metal ion
+CV087575,2733.5,1082.9,-2.52,0.002,Flavin containing monooxygenase 5,3.00E-04,F:oxidoreductase activity; C:intrinsic to endoplasmic reticulum membrane; F:monooxygenase activity; F:NADP or NADPH binding; C:microsome; F:FAD binding
+EH647614,1226.5,486.2,-2.52,0.001,Asparagine-linked glycosylation 9 protein,1.40E-20,"C:integral to membrane; C:endoplasmic reticulum membrane; F:transferase activity, transferring glycosyl groups"
+EH645647,7612.1,3003.2,-2.54,0.01,,,
+EH648378,7151.6,2800.9,-2.55,0.036,,,
+CD650269,2619.8,1021.4,-2.56,0.015,,,
+EH645393,4792.7,1871.6,-2.56,0.029,Carboxylesterase 2 ( liver),3.10E-31,C:endoplasmic reticulum lumen; F:hydrolase activity; C:endoplasmic reticulum; F:carboxylesterase activity; C:microsome
+EH646014,268.9,105.1,-2.56,0.031,UDP-GalNAc:polypeptide N-acetylgalactosaminyltransferase,5.20E-04,
+EH647729,1515,591.1,-2.57,0.007,,,
+CD647943,319,123.9,-2.58,0.005,,,
+EH644690,4287.2,1660.4,-2.58,0.002,,,
+CD648599,17100.3,6578.1,-2.6,0.005,,,
+EH645127,8806,3392,-2.6,0.001,Solute carrier family 3 member 1,2.30E-19,F:protein kinase activity; F:ATP binding; P:carbohydrate metabolic process; P:protein amino acid phosphorylation; F:catalytic activity; F:cation binding
+CD647941,16534.8,6359.2,-2.6,0.002,protein,7.20E-27,
+EH645009,7113.8,2733,-2.61,0.009,,,
+EH647076,8464.8,3232.2,-2.62,0.006,Polypyrimidine tract binding protein 1,1.40E-21,F:mRNA binding; P:mRNA splice site selection; C:spliceosome; P:anatomical structure morphogenesis; F:protein binding
+EH647192,6048,2309.1,-2.63,0.002,Mindbomb homolog 2,1.50E-06,P:positive regulation of Notch signaling pathway; P:positive regulation of endocytosis; F:metal ion binding; P:imaginal disc-derived leg morphogenesis; P:compound eye morphogenesis; F:ubiquitin-protein ligase activity; P:protein ubiquitination; P:lateral
+CD649709,1749.2,666.2,-2.63,0.002,,,
+CV088842,2168.6,823.3,-2.63,0.006,Similar to myosin light chain kinase,1.80E-12,F:binding; F:kinase activity
+EH643925,9892.2,3722.2,-2.66,0.023,Syntaxin binding protein 4,2.40E-18,P:intracellular signaling cascade; F:protein binding; P:protein targeting; P:glucose transport; P:insulin receptor signaling pathway
+EH644314,1281.3,481.7,-2.66,0.003,,,
+CD649759,2023.5,755.8,-2.68,0.009,,,
+CD650474,286.2,106.4,-2.69,0.011,,,
+EH645592,6095.4,2267.4,-2.69,0.004,Ral GEF with PH domain and SH3 binding motif 1,1.10E-10,P:intracellular signaling cascade
+EH648753,12738.1,4726.7,-2.7,0.003,unnamed protein product [Tetraodon nigroviridis],5.30E-04,
+CD648849,1239.6,458.3,-2.7,0.006,Fos-related antigen-2,9.90E-23,"F:sequence-specific DNA binding; F:protein dimerization activity; F:transcription factor activity; C:nucleus; P:regulation of transcription, DNA-dependent"
+CD647621,318.9,117.6,-2.71,0.007,,,
+CD649622,618.9,227.6,-2.72,0.008,,,
+EH646514,7795.9,2857.9,-2.73,0.017,Aquaporin 1 (colton blood group),1.40E-20,C:integral to membrane; C:membrane; F:transporter activity; P:transport
+CD647035,9968.3,3653,-2.73,0.002,WD repeat protein,0.00E+00,
+EH644695,5700.1,2069.7,-2.76,0.007,Transmembrane protein 55a,1.70E-20,C:membrane
+EH648170,7389.3,2665.2,-2.77,0.005,Coiled-coil domain containing 87,2.30E-08,
+CD648392,857.3,308.4,-2.78,0.018,Tubulin alpha-1 chain,6.50E-131,F:structural constituent of cytoskeleton; P:microtubule-based movement; C:protein complex; F:GTP binding; P:protein polymerization; F:GTPase activity; C:microtubule
+EH647250,2400,855.8,-2.8,0.001,,,
+EH648305,3968.9,1415.1,-2.81,0.007,Small G protein signaling modulator 3,1.50E-50,F:protein binding; C:cell part; P:cellular process; P:regulation of biological process
+EH648611,6941.9,2475.9,-2.81,0.004,Karyopherin alpha 1,1.70E-66,P:protein import into nucleus; F:protein binding; C:nucleus
+CV088040,13792.3,4825.2,-2.86,0.005,,,
+EH645845,14031.8,4886.2,-2.87,0.002,,,
+EH646136,15470.9,5361.3,-2.89,0.032,,,
+DV736898,604.4,208.3,-2.9,0.015,,,
+EH646770,2213.9,759.4,-2.92,0.033,di-n-acetyl-,7.10E-22,"F:hydrolase activity, acting on glycosyl bonds"
+CV132402,14860.1,5087,-2.92,0.016,Na+ K+ atpase alpha subunit,6.40E-62,F:monovalent inorganic cation transmembrane transporter activity; F:sodium:potassium-exchanging ATPase activity; F:potassium ion binding; F:ATP binding; F:magnesium ion binding; F:sodium ion binding; P:potassium ion transport; C:integral to membrane; P:me
+EH646691,1227.2,416.9,-2.95,0.005,,,
+CD649289,333.7,113,-2.96,0.002,Cholinergic receptor nicotinic alpha polypeptide 3,7.40E-34,F:acetylcholine receptor activity; P:signal transduction; C:nicotinic acetylcholine-gated receptor-channel complex; F:nicotinic acetylcholine-activated cation-selective channel activity
+CD649710,502.8,168.5,-2.98,0.003,Phosphodiesterase isoform CRA_B,1.80E-08,F:catalytic activity
+EH648823,11725.9,3901.7,-3,0.01,Elongation factor RNA polymerase ii,6.50E-15,P:RNA elongation from RNA polymerase II promoter; F:protein binding; F:positive transcription elongation factor activity
+EH649274,2129.1,706.1,-3.01,0.019,,,
+EH646367,356.6,118,-3.02,0.006,,,
+EH646588,19578.4,6445.4,-3.04,0.015,mgc84531 protein,4.40E-13,P:biological_process; C:cellular_component
+EH648565,1089.2,358.1,-3.04,0.008,Pannexin 5,4.30E-04,C:gap junction
+EH648535,1979.8,644.6,-3.07,0.036,Rad50 interactor 1,1.40E-25,P:G2/M transition DNA damage checkpoint; F:protein binding; P:transport; C:endoplasmic reticulum
+FP005488,362.5,117.6,-3.08,0.008,Ubiquitin conjugating enzyme,3.20E-25,P:ubiquitin cycle; P:regulation of protein metabolic process; F:small conjugating protein ligase activity
+CD649076,651.3,212.5,-3.1,0.003,,,
+EH648435,3129.4,1008.2,-3.11,0.012,Exocyst complex component 2,1.30E-13,F:protein binding; P:transport
+CD649929,1148.6,367.2,-3.13,0.007,,,
+CV133194,3677.7,1173.8,-3.13,0.044,Dihydropyrimidinase,5.20E-89,C:soluble fraction; P:response to toxin; P:uracil metabolic process; P:beta-alanine metabolic process; P:protein homooligomerization; F:dihydropyrimidinase activity; F:amino acid binding; F:thymine binding; F:zinc ion binding
+CD648176,5418.5,1705.4,-3.19,0.001,Carbonic anhydrase 2,4.30E-59,F:metal ion binding; F:lyase activity
+CD648832,1718.5,537.6,-3.2,0.005,"Collagen,type XXII, alpha 1",3.90E-24,P:phosphate transport; C:cytoplasm; F:structural molecule activity; P:cell adhesion; C:proteinaceous extracellular matrix; C:extracellular region; P:negative regulation of signal transduction
+CD648203,7350.3,2264.6,-3.25,0.015,,,
+EH645904,532.2,163,-3.29,0.004,,,
+EH647199,482.6,147.1,-3.29,0.013,Heat shock protein HSP70,2.20E-05,
+CD646774,8370,2507,-3.34,0.023,Valosin containing protein p47 complex interacting protein 1,9.20E-41,C:cytoplasm; P:endoplasmic reticulum membrane fusion; P:Golgi organization; F:protein binding; P:mitosis; F:hydrolase activity; P:ubiquitin cycle
+EH647153,3382.1,1013.6,-3.34,0.008,,,
+CD648597,1480.4,432.1,-3.43,0.019,Mohawk homeobox,4.70E-08,F:DNA binding; P:regulation of transcription; P:muscle organ development
+EH648587,1100.8,319.8,-3.44,0.014,Serrano protein,2.80E-17,F:molecular_function; C:cellular_component
+CD650301,1837.9,525.8,-3.51,0.005,,,
+CD648864,4013.1,1144,-3.52,0.004,,,
+EH647768,5764.4,1631.2,-3.53,0.034,,,
+CX069055,797.6,222.6,-3.58,0.004,,,
+CD647246,406.7,112.8,-3.62,0.007,,,
+BQ426440,759.8,209.4,-3.63,0.044,,,
+EH644582,5367.4,1474,-3.64,0.045,"ADAM metallopeptidase with thrombospondin type 1 motif, 7",1.20E-32,C:cell surface; F:metallopeptidase activity; P:proteolysis
+CD650637,28685.4,7861.8,-3.65,0.047,Tubulin alpha-1 chain,5.10E-79,P:cytokinesis; C:tubulin complex; P:mitotic spindle organization; C:gamma-tubulin small complex; P:protein polymerization; P:mitotic cell cycle spindle assembly checkpoint; P:microtubule-based movement; F:protein binding; P:antimicrobial humoral response;
+CD648268,961,259.1,-3.71,0.007,Phosphoenolpyruvate carboxykinase,7.80E-20,F:catalytic activity
+EH648326,505.8,135.8,-3.72,0.012,,,
+EH649332,3554.6,951.5,-3.74,0.041,Selenium binding protein 1,3.10E-12,C:membrane; F:selenium binding; C:intracellular part; P:transport
+CD649930,1070.1,277.7,-3.85,0.045,,,
+CK240400,11477.9,2958.6,-3.88,0.003,Phosphate carrier protein mitochondrial precursor,2.20E-05,C:mitochondrial inner membrane; F:phosphate:hydrogen symporter activity; P:transport; C:integral to membrane
+CD648225,6303.5,1612.5,-3.91,0.042,WD repeat domain 78,1.30E-67,F:molecular_function; C:cellular_component
+CD650129,7338.1,1867.9,-3.93,0.021,Outer dense fiber protein 3,2.40E-36,C:cytoplasm; P:biological_process
+CV133123,399.6,100.8,-3.97,0.012,,,
+AJ305315,529.3,133,-3.98,0.017,,,
+CD648884,2154,538.2,-4,0.047,,,
+EH647147,538.6,130,-4.15,0.014,,,
+CD647747,454.2,105.6,-4.31,0.006,,,
+EH645468,8263.1,1916.7,-4.31,0.027,drosophila melanogaster cg6398,1.20E-06,
+EH648233,563.2,129.4,-4.38,0.006,,,
+CD649976,987.6,226.4,-4.44,0.042,,,
+BQ426492,828.3,183.6,-4.52,0.012,,,
+BQ427015,517.1,111,-4.66,0.008,,,
+EH644945,666.2,140.7,-4.74,0.003,,,
+EH644245,581,123.1,-4.75,0.006,lmbr1 domain containing 1,5.30E-29,C:integral to membrane
+EH645754,3556.7,726.9,-4.9,0.02,Wings apart-like homolog,1.00E-25,P:response to toxin; F:protein binding
+EH647884,511.7,104.5,-4.92,0,UNC93A protein,2.60E-29,C:plasma membrane
+CV088509,5803.2,1174.5,-4.94,0.04,chromosome 20 open reading frame 26,6.80E-50,
+CV132031,4430.2,895.7,-4.97,0.019,,,
+EH645229,691.2,134.9,-5.13,0.043,,,
+CD649975,3638.9,699,-5.22,0.044,Carbonic anhydrase xiv,1.20E-41,C:integral to membrane; C:membrane; F:carbonate dehydratase activity; F:zinc ion binding; P:one-carbon compound metabolic process; F:molecular_function; F:lyase activity; F:metal ion binding; P:biological_process
+CD648785,13273.6,1863.3,-7.12,0.036,Actin,5.90E-152,P:hermaphrodite genitalia development; F:structural constituent of cytoskeleton; P:nematode larval development; P:actin cytoskeleton organization; C:actin filament; C:lipid particle; F:protein binding; P:cytokinesis; F:ATP binding; P:embryonic development
+CD648779,1988.6,241.3,-8.25,0.011,,,
+CD647974,1263.6,111.1,-11.38,0.024,,,
